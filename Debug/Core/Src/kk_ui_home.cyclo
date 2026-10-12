@@ -1,0 +1,6 @@
+../Core/Src/kk_ui_home.c:24:16:kk_ui_home_label_width_q8	1
+../Core/Src/kk_ui_home.c:5:30:kk_ui_home_page.isra	1
+../Core/Src/kk_ui_home.c:82:13:kk_ui_home_move	6
+../Core/Src/kk_ui_home.c:70:6:KK_UI_HomeAnimate	4
+../Core/Src/kk_ui_home.c:112:6:KK_UI_HomeInput	3
+../Core/Src/kk_ui_home.c:127:6:KK_UI_HomeDraw	14

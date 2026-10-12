@@ -1,0 +1,3 @@
+../Core/Src/kk_ui_anim.c:16:10:KK_UI_EaseQ12	2
+../Core/Src/kk_ui_anim.c:37:9:KK_UI_LerpQ12	2
+../Core/Src/kk_ui_anim.c:42:9:KK_UI_RoundQ8	3

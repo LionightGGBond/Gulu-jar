@@ -1,0 +1,8 @@
+../Core/Src/kk_ui_page.c:26:16:kk_ui_info_scroll	8	static
+../Core/Src/kk_ui_page.c:18:16:kk_ui_info_max_scroll_q8	0	static
+../Core/Src/kk_ui_page.c:49:13:kk_ui_info_move	32	static
+../Core/Src/kk_ui_page.c:37:6:KK_UI_InfoAnimate	8	static
+../Core/Src/kk_ui_page.c:79:6:KK_UI_InfoInput	8	static
+../Core/Src/kk_ui_page.c:101:6:KK_UI_InfoDraw	96	static
+../Core/Src/kk_ui_page.c:195:6:KK_UI_CustomInput	8	static
+../Core/Src/kk_ui_page.c:206:6:KK_UI_CustomTick	0	static

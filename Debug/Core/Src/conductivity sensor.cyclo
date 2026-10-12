@@ -1,0 +1,3 @@
+../Core/Src/conductivity sensor.c:15:6:Conductivity_Init	1
+../Core/Src/conductivity sensor.c:22:6:Conductivity_StartMeasure_IT	3
+../Core/Src/conductivity sensor.c:37:6:Conductivity_Process	4

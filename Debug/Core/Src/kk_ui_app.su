@@ -1,0 +1,6 @@
+../Core/Src/kk_ui_app.c:146:13:app_text_changed	16	static
+../Core/Src/kk_ui_app.c:157:13:app_refresh_values	48	static
+../Core/Src/kk_ui_app.c:208:18:KK_UI_AppGet	0	static
+../Core/Src/kk_ui_app.c:213:6:KK_UI_AppReset	24	static
+../Core/Src/kk_ui_app.c:232:6:KK_UI_AppProcessEvents	16	static
+../Core/Src/kk_ui_app.c:242:6:KK_UI_AppUpdate	8	static

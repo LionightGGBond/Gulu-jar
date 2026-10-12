@@ -1,0 +1,9 @@
+../Core/Src/kk_ui_nav.c:33:13:kk_ui_start_transition	1
+../Core/Src/kk_ui_nav.c:3:24:KK_UI_GetRoute	4
+../Core/Src/kk_ui_nav.c:12:16:KK_UI_CurrentPageType	2
+../Core/Src/kk_ui_nav.c:18:6:KK_UI_ResetPageState	3
+../Core/Src/kk_ui_nav.c:55:14:KK_UI_NavigateTo	4
+../Core/Src/kk_ui_nav.c:94:14:KK_UI_NavigateBack	4
+../Core/Src/kk_ui_nav.c:126:6:KK_UI_AnimateNavigation	3
+../Core/Src/kk_ui_nav.c:144:6:KK_UI_DrawPage	6
+../Core/Src/kk_ui_nav.c:181:6:KK_UI_DrawScene	10

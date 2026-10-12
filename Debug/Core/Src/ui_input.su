@@ -1,0 +1,2 @@
+../Core/Src/ui_input.c:17:6:UI_InputInit	32	static
+../Core/Src/ui_input.c:33:13:UI_InputRead	32	static

@@ -1,0 +1,6 @@
+../Core/Src/main.c:61:6:HAL_UARTEx_RxEventCallback	0	static
+../Core/Src/main.c:71:6:HAL_UART_RxCpltCallback	0	static
+../Core/Src/main.c:185:6:SystemClock_Config	72	static,ignoring_inline_asm
+../Core/Src/main.c:90:5:main	216	static
+../Core/Src/main.c:220:6:HAL_UART_ErrorCallback	16	static
+../Core/Src/main.c:248:6:Error_Handler	0	static,ignoring_inline_asm

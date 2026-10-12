@@ -1,0 +1,7 @@
+../Core/Src/kk_oled_bitmap.c:105:16:oled_q15_round	0	static
+../Core/Src/kk_oled_bitmap.c:114:13:oled_include_rotated_corner	32	static
+../Core/Src/kk_oled_bitmap.c:59:13:oled_bitmap_size_valid	16	static
+../Core/Src/kk_oled_bitmap.c:34:9:OLED_InternalSinQ15	0	static
+../Core/Src/kk_oled_bitmap.c:51:9:OLED_InternalCosQ15	0	static
+../Core/Src/kk_oled_bitmap.c:77:6:OLED_DrawXBM	56	static
+../Core/Src/kk_oled_bitmap.c:139:6:OLED_DrawRotatedXBM	112	static

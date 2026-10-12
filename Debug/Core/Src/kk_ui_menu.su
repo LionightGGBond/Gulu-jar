@@ -1,0 +1,14 @@
+../Core/Src/kk_ui_menu.c:309:13:kk_ui_menu_content_clip	0	static
+../Core/Src/kk_ui_menu.c:275:13:kk_ui_draw_enter_arrow	24	static
+../Core/Src/kk_ui_menu.c:137:13:kk_ui_menu_animated_values	24	static
+../Core/Src/kk_ui_menu.c:6:30:kk_ui_menu_page.isra	8	static
+../Core/Src/kk_ui_menu.c:12:17:KK_UI_MenuGetItemState	0	static
+../Core/Src/kk_ui_menu.c:79:13:kk_ui_menu_item_selectable	8	static
+../Core/Src/kk_ui_menu.c:63:17:kk_ui_menu_item_to_visible	24	static
+../Core/Src/kk_ui_menu.c:23:17:kk_ui_menu_visible_count	16	static
+../Core/Src/kk_ui_menu.c:47:17:kk_ui_menu_visible_to_item	24	static
+../Core/Src/kk_ui_menu.c:165:13:kk_ui_menu_move	48	static
+../Core/Src/kk_ui_menu.c:86:6:KK_UI_MenuRepairFocus	24	static
+../Core/Src/kk_ui_menu.c:153:6:KK_UI_MenuAnimate	8	static
+../Core/Src/kk_ui_menu.c:264:6:KK_UI_MenuInput	24	static
+../Core/Src/kk_ui_menu.c:320:6:KK_UI_MenuDraw	104	static

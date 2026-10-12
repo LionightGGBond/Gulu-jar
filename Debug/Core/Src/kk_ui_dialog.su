@@ -1,0 +1,12 @@
+../Core/Src/kk_ui_dialog.c:11:6:KK_UI_DrawCentered	24	static
+../Core/Src/kk_ui_dialog.c:22:6:KK_UI_FormatInt	40	static
+../Core/Src/kk_ui_dialog.c:57:6:KK_UI_DialogActive	0	static
+../Core/Src/kk_ui_dialog.c:188:14:KK_UI_DialogOpenInt	0	static
+../Core/Src/kk_ui_dialog.c:209:14:KK_UI_DialogOpenBool	0	static
+../Core/Src/kk_ui_dialog.c:230:14:KK_UI_DialogOpenConfirm	0	static
+../Core/Src/kk_ui_dialog.c:245:14:KK_UI_DialogOpenMessage	0	static
+../Core/Src/kk_ui_dialog.c:418:6:KK_UI_DialogInput	8	static
+../Core/Src/kk_ui_dialog.c:454:6:KK_UI_DialogAnimate	0	static
+../Core/Src/kk_ui_dialog.c:498:14:KK_UI_ToastOpen	0	static
+../Core/Src/kk_ui_dialog.c:683:6:KK_UI_DialogDraw	0	static
+../Core/Src/kk_ui_dialog.c:689:6:KK_UI_ToastDraw	0	static

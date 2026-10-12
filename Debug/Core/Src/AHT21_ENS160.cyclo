@@ -1,0 +1,2 @@
+../Core/Src/AHT21_ENS160.c:6:6:EnvSensor_Init	1
+../Core/Src/AHT21_ENS160.c:27:6:EnvSensor_Read_Data	3

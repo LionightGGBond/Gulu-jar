@@ -1,0 +1,5 @@
+../Core/Src/kk_ui_draw.c:131:6:KK_UI_DrawFocus	1
+../Core/Src/kk_ui_draw.c:134:6:KK_UI_DrawButton	1
+../Core/Src/kk_ui_draw.c:137:6:KK_UI_DrawProgressBar	1
+../Core/Src/kk_ui_draw.c:140:6:KK_UI_DrawScrollbar	1
+../Core/Src/kk_ui_draw.c:144:6:KK_UI_DrawSwitch	1
